@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Метод_Полака_Рибьера.Properties.Resources.resources
+obj\Debug\Метод Полака-Рибьера.csproj.GenerateResource.Cache
+bin\Debug\Метод Полака-Рибьера.exe
+bin\Debug\Метод Полака-Рибьера.pdb
+obj\Debug\Метод Полака-Рибьера.exe
+obj\Debug\Метод Полака-Рибьера.pdb
+obj\Debug\Метод_Полака_Рибьера.Form1.resources
